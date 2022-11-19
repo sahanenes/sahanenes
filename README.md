@@ -3,7 +3,7 @@
 
 
 - I'm a student and Full Stack Developer
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Redux
 - 💬 Ask me about anything
 - 📫 How to reach me: https://www.linkedin.com/in/enes-sahan-b6ba36127/
 
