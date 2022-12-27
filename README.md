@@ -3,7 +3,7 @@
 
 
 - I'm FrontEnd Developer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Django
 - 💬 Ask me about anything
 - 📫 How to reach me: https://www.linkedin.com/in/enes-sahan-b6ba36127/
 
